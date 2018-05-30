@@ -7,7 +7,7 @@ Exécutez la macro "Ponctuation".
 
 La macro remplace par des espaces les signes de ponctuation -,.();:+[]/\!{}'
 
-## Séparation en ligne
+## Séparation en lignes
 Collez des ID en colonne A et des lignes de texte contenant un signe de séparation en colonne B. Par défaut le signe de séparation est -- , mais il peut être modifié dans le code.
 
 Exécutez la macro SeparationEnLignes
